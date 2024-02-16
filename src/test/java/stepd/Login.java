@@ -58,7 +58,7 @@ public void beforeScenario() throws IOException{
 	}
 	@Then("Homepage should open")
 	public void homepage_should_open() {
-		System.out.println("asdasdas");
+		System.out.println("Homepage Opens");
 	}
 	@Then("User should see Dashboard text")
 	public void user_should_see_dashboard_text() {
